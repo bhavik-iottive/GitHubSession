@@ -15,5 +15,13 @@ class ViewController: UIViewController {
     }
 
 
+    func setUpUIAndData() {
+        print("setUpUIAndData")
+    }
+    
+    
+    func locationManagerSetUp() {
+        print("locationManagerSetUp")
+    }
 }
 
