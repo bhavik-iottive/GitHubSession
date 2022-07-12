@@ -26,5 +26,10 @@ class ViewController: UIViewController {
     func locationManagerSetUp() {
         print("locationManagerSetUp")
     }
+    
+    
+    func locationManagerSetUp() {
+        print("locationManagerSetUp")
+    }
 }
 
