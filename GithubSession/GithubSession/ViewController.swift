@@ -15,8 +15,11 @@ class ViewController: UIViewController {
     }
 
 
+
     func setUpUIAndData() {
         print("setUpUIAndData")
+        print("setUpUIAndData")
+
     }
     
     
